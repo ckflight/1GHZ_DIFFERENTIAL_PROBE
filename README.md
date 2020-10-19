@@ -1,4 +1,4 @@
-# 1_GHz_Active_Differential_Probe
+# 1GHZ DIFFERENTIAL PROBE
 
 Instead of paying a few thousand $ to the unnecessarily expensive probes from textronix or rigol, i made an Differential Probe which cost
 15$ for 4 layer pcb and 45$ for components and it works just fine.
