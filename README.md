@@ -1,6 +1,6 @@
 # 1GHZ DIFFERENTIAL PROBE
 
-Instead of paying a few thousand $ to the unnecessarily expensive probes from textronix or rigol, i made an Differential Probe which cost
+Instead of paying a few thousand $ to the unnecessarily expensive probes from tektronix or rigol, i made an Differential Probe which cost
 15$ for 4 layer pcb and 45$ for components and it works just fine.
 
 Mosfet source follower is used as voltage buffer which has 20dB attenuation (1/10) and an opamp subtractor is used at the end. Copper pour at the input of the pcb is removed to reduce input capacitance of the probe for high speed signals. 2 passive LPF is used at the output of Switching Regulator which is generation ripple noise. Also input power from the USB Connector is filtered with 180 Ohm Ferrite Bead which is the input of the Switching Regulator. This way of filtering
